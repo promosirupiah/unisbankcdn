@@ -14,7 +14,7 @@
 
 .responsive.responsive-phone .art-content-layout img 
 {
-   float: none !important;
+ /*  float: none !important; */
 }
     
 .responsive .art-content-layout .art-sidebar0, 
